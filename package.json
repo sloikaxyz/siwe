@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "siwe": "file:packages/siwe",
-    "siwe-parser": "file:packages/siwe-parser"
+    "siwe-parser": "file:packages/siwe-parser",
+    "siwe-test-package": "file:packages/siwe-test-package"
   }
 }

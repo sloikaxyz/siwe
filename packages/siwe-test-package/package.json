@@ -1,0 +1,19 @@
+{
+  "name": "siwe-test-package",
+  "version": "0.0.0",
+  "description": "A package that tests if the current build from siwe can be imported, used and other prejects can be built with it.",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.6.9",
+    "siwe": "file:../siwe"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
